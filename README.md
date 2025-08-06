@@ -18,4 +18,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 娱乐票务(博物馆)行业模板 |
 |:---:|
-| ![输入图片说明](MuseumTicket/screenshots/%E9%A6%96%E9%A1%B5.jpeg)| 
+| ![输入图片说明](%E5%A8%B1%E4%B9%90%E7%A5%A8%E5%8A%A1(%E5%8D%9A%E7%89%A9%E9%A6%86)%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| 
